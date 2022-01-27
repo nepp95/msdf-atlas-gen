@@ -19,3 +19,9 @@ output.png
 out/
 build/
 /cmake-gen.bat
+
+bin/
+bin-int/
+*.sln
+*.vcxproj
+*.vcxproj.filters
